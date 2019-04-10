@@ -1,0 +1,4 @@
+This project is done by using C programming.  BANK MANAGEMENT SYSTEM
+
+id: 1661-15-7338 write the project report and done the part of (list accout details in code and some OTHER featurs also) and other 
+part done by me (161-15-6861).
